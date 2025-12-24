@@ -6,7 +6,7 @@ This project focuses on transforming raw tabular data into meaningful visual ins
 
 ---
 
-## 🔍 Key Features
+##  Key Features
 - Interactive filters for departments, funding agencies, and project status
 - KPI cards showing total funding, project count, and average project value
 - Department-wise and agency-wise funding analysis
@@ -24,7 +24,7 @@ This project focuses on transforming raw tabular data into meaningful visual ins
 
 ---
 
-## ▶️ How to Run Locally
+## ▶ How to Run Locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
